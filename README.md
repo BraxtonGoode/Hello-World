@@ -1,18 +1,19 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+- My Hello World Python Test script
 
-{Provide a description of your software}
+- This Python script was created to test my Visual Studio Code development environment and verify that Python was correctly installed on my computer with the proper extensions. The script performs a simple Hello World print to the console. I also added a small feature that clears the terminal before the program runs and then waits 2 seconds after printing the message before closing the program.
 
 {Describe your purpose for creating this software.}
+- The purpose behind creating this software is to check that my development setup is working correctly and is able to function using python language.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+* [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
 {Describe the tools that you used to develop the software}
+- 
 
 {Describe the programming language that you used}
 
