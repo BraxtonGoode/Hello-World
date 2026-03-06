@@ -7,7 +7,7 @@
 - The purpose behind creating this software is to confirm that my development setup is working correctly and that I am able to run Python programs successfully. This small project helps ensure that my environment is configured properly before working on larger or more complex software projects.
 
 
-* [Software Demo Video](http://youtube.link.goes.here)
+* [Software Demo Video](https://youtu.be/v6a1Di7Sz1Y)
 
 # Development Environment
 
@@ -17,6 +17,5 @@
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Python Docs](https://www.python.org/doc/)
 * [Visual studio code python docs](https://code.visualstudio.com/docs/python/python-tutorial)
